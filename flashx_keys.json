@@ -3,5 +3,10 @@
     "key": "flashx2026admin",
     "plan": "unlimited",
     "expiry": "9999-12-31T23:59:59Z"
+  },
+  "8936796099": {
+    "key": "flashxttzx1ece",
+    "plan": "1d",
+    "expiry": "2026-09-14T02:10:03.528563+00:00"
   }
 }
