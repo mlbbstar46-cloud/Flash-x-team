@@ -13,5 +13,10 @@
     "key": "flashxoziouw4w",
     "plan": "unlimited",
     "expiry": "9999-12-31T23:59:59Z"
+  },
+  "8204072042": {
+    "key": "flashxuirjsxh3",
+    "plan": "1d",
+    "expiry": "2026-10-09T10:39:41.956170+00:00"
   }
 }
