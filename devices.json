@@ -4,5 +4,11 @@
     "expiry": "9999-12-31T23:59:59Z",
     "plan": "unlimited",
     "added_by": "admin"
+  },
+  "F6C6-1329-BD45-0CD1-B023": {
+    "name": "User",
+    "expiry": "9999-12-31T23:59:59Z",
+    "plan": "unlimited",
+    "added_by": "admin"
   }
 }
