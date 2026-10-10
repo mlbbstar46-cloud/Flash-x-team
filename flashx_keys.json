@@ -30,5 +30,11 @@
     "device_id": "F6C6-1329-BD45-0CD1-B023",
     "expiry": "9999-12-31T23:59:59Z",
     "plan": "unlimited"
+  },
+  "679E-5BB4-BB5E-CEF0-1464": {
+    "key": "flashx9fxeads94asi",
+    "device_id": "679E-5BB4-BB5E-CEF0-1464",
+    "expiry": "9999-12-31T23:59:59Z",
+    "plan": "unlimited"
   }
 }
