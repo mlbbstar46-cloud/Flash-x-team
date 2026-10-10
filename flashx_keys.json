@@ -42,5 +42,11 @@
     "device_id": "F1C3-4AEB-D24B-866E-12A5",
     "expiry": "9999-12-31T23:59:59Z",
     "plan": "unlimited"
+  },
+  "DF5B-F537-8C09-CE2A-1D62": {
+    "key": "flashxsk93tztlfk8f",
+    "device_id": "DF5B-F537-8C09-CE2A-1D62",
+    "expiry": "9999-12-31T23:59:59Z",
+    "plan": "unlimited"
   }
 }
