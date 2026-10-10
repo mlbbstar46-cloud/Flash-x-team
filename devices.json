@@ -16,5 +16,11 @@
     "expiry": "9999-12-31T23:59:59Z",
     "plan": "unlimited",
     "added_by": "admin"
+  },
+  "F1C3-4AEB-D24B-866E-12A5": {
+    "name": "User",
+    "expiry": "9999-12-31T23:59:59Z",
+    "plan": "unlimited",
+    "added_by": "admin"
   }
 }
