@@ -28,11 +28,5 @@
     "expiry": "9999-12-31T23:59:59Z",
     "plan": "unlimited",
     "added_by": "admin"
-  },
-  "6886-1DFF-8F7D-4C2E-6665": {
-    "name": "User",
-    "expiry": "9999-12-31T23:59:59Z",
-    "plan": "unlimited",
-    "added_by": "admin"
   }
 }
